@@ -11,8 +11,9 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:background="@drawable/shap_drawable_on"
+        android:background="@drawable/shap_drawable_three"
         android:text="Shap Drawable"
+        android:gravity="center"
         android:id="@+id/tvOn"
       />
 
